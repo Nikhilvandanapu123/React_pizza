@@ -1,3 +1,11 @@
+
+It is a pizza-ordering website with minimal CSS and HTML , Java Script and there were no database connections as such, this is just a React practice thing !!
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
